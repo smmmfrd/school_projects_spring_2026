@@ -24,7 +24,7 @@ int main(int argc, char** argv) {
     float input, output;
     
     //Initialize all known variables
-    cout << "Input degrees in Celsius to be converted to Farenheit" << endl;
+    cout << "Input degrees in Celsius to be converted to Fahrenheit" << endl;
     cin >> input;
     
     //Process Inputs to Outputs -> Mapping Process
