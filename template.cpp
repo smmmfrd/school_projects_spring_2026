@@ -1,9 +1,8 @@
 /* 
  * File:   template.cpp
- * Author: Dr. Mark E. Lehr
- * Created on August 26th, 2020, 6:14 PM
- * Purpose:  Template which is to be copied for all future
- *           Homework, Labs, Projects, Test, etc...
+ * Author: Sam Mumford
+ * Created:
+ * Purpose: 
  */
 
 //System Libraries
