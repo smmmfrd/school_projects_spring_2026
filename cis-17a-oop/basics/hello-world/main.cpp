@@ -1,5 +1,5 @@
 /* 
- * File: hello-world.cpp
+ * File: main.cpp
  * Author: Sam Mumford
  * Date: March 7, 2026
  * Purpose: Print hello world.
