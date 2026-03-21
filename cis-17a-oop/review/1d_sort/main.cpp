@@ -1,5 +1,5 @@
 /* 
- * File:   1d_sort.cpp
+ * File:   main.cpp
  * Author: Sam Mumford
  * Created: March 8, 2026
  * Purpose:  Sorting an array of characters if specified correctly

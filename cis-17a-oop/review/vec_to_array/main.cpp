@@ -1,5 +1,5 @@
 /* 
- * File:   vec_to_array.cpp
+ * File:   main.cpp
  * Author: Sam Mumford
  * Created: March 11, 2026
  * Purpose:  Even, Odd Vectors and Array Columns Even, Odd

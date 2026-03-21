@@ -1,5 +1,5 @@
 /* 
- * File:   2d_sort.cpp
+ * File:   main.cpp
  * Author: Sam Mumford
  * Created: March 9, 2026
  * Purpose:  Sorting a 2-D array of characters if row and columns match

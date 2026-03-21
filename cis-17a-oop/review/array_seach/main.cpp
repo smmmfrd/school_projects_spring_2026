@@ -1,5 +1,5 @@
 /* 
- * File:   array_search.cpp
+ * File:   main.cpp
  * Author: Sam Mumford
  * Created: March 12, 2026
  * Purpose:  Searching for multiple occurrence of patterns

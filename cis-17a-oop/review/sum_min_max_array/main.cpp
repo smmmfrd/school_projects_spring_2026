@@ -1,5 +1,5 @@
 /* 
- * File:   sum_min_max_array.cpp
+ * File:   main.cpp
  * Author: Sam Mumford
  * Created: March 11, 2026
  * Purpose:  Summing, Finding the Max and Min of an integer array
